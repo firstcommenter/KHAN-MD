@@ -91,7 +91,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "92310344XXXX"
+      "value": "2349132095836"
 
     }, 
 
@@ -192,7 +192,7 @@
     "WELCOME": {
       "description": "make it true if want goodbye and welcome message in groups.",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
 
     "READ_MESSAGE": {
